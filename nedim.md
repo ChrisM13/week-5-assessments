@@ -3,40 +3,44 @@ Week 5 Assessment
 Score:   / 11
 
 
-Q1:
+Q1: D
 
 
 
-Q2:
+Q2: Model
 
 
 
-Q3: 
+Q3: C
 
 
 
-Q4: 
+Q4: C
 
 
 
-Q5: 
+Q5: A
 
 
 
-Q6:
+Q6: 8
 
 
 
-Q7: 
+Q7: Posts and Comments
 
 
 
-Q8: 
+Q8: Comments
 
 
 
-Q9:
+Q9: No
 
 
 
-Q10: 
+Q10: Yes
+
+
+
+Q11: Yes
